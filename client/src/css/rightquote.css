@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:500&display=swap');
+.rightquote{
+    background: linear-gradient( white , lightblue);
+    /* background-image: url("../img/background1.png"); */
+    padding-top: 100px;
+    height: 100vh;
+    /* position: relative; */
+}
+.person{
+    display: flex;
+        justify-content: center;
+        align-items: center;
+    /* position: absolute; */
+    /* left: 50%; */
+}
+.quote_line{
+    font-family: 'Playfair Display', serif;
+    font-size: 1.2rem;
+}
+.q1{
+    width: 60px;
+    height: 40px;
+}
+.pp{
+    border-radius: 50%;
+}
+.imgqu{
+    width: 70px;
+    border-radius: 50%;
+}
